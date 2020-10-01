@@ -1,4 +1,4 @@
-The internet is full of recipes. A recipe is really only the *directions* and the *ingredients*, but for any given recipe website you always get a lot more information thatn you want (comments, links, advertisements). For instance the page for [Alton Brown's waffle](http://www.foodnetwork.com/recipes/alton-brown/basic-waffle-recipe.html) recipe looks like this:
+The internet is full of recipes cooked in different ways. A recipe is really only the *directions* and the *ingredients*, but for any given recipe website you always get a lot more information thatn you want (comments, links, advertisements). For instance the page for [Alton Brown's waffle](http://www.foodnetwork.com/recipes/alton-brown/basic-waffle-recipe.html) recipe looks like this:
 
 ![Website example](https://rpiai.files.wordpress.com/2015/02/webcontentgrabber-01.png)
 
